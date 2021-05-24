@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "version": "1.2",
+  "name": "Leads Tracker by Dan",
+  "description": "An extension made to track all your leads",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": ["tabs"]
+}
